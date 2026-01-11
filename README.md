@@ -20,7 +20,7 @@ This project uses **MediaPipe** for hand tracking and **OpenCV** for camera inpu
 
 ## Installation
 
-1.  **Clone the repository**
+1.  **Clone the repository and navigate to the local folder in your terminal**
 
 2.  **Set up a virtual environment (Recommended):**
     ```bash
